@@ -22,8 +22,8 @@ E022110-Olga
 > > > > > > > F3604 - Mehmed
 > > > > > > > T022182 - MUHAMMED
 > > > > > > > F4219 - Akif
-> > > > > > > hayriye
-> > > > > > > 871ab3d2500d995d58aff0e2aad856ca556594d2
+>>>>>>> 177687e808a11c8fbd4f67b74d1c5ca3d8ea2f13
+hayriye
 
 jjhgfhgf
 
@@ -42,14 +42,7 @@ T022172-Furkan SB
 > > > > > > > F3675-August
 
 
-> > > > > > > T022172-Furkan SBAdam
-> > > > > > > Adam
-
-> > > > > > > 35127af56609314fb9d474f4d96969546e7bcc5b
-
-
-> > > > > > > F3561-Huseyin
-> > > > > > > 1740cb0b8ba57ac8fe08b7710c87a06b3a98aa58
+> > > > > > > T022162 - Furkan POLAT
 
 > > > > > > > T022143-Yusuf
 
@@ -72,4 +65,4 @@ T022172-Furkan SB
 
 > > > > > > > T022326-Soner
 
-T022209-Liva
+T022209-LivaT022185-Selim
